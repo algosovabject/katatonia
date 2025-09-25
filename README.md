@@ -66,26 +66,25 @@ File-writing exercise where names are “bound” into a grimoire.
 
 Will tie into future projects with file I/O.
 
-🩸 How to Use
+## 🩸 How to Use
 
 Clone the repo:
 
-git clone https://github.com/yourusername/python-for-goths.git
-cd python-for-goths
-
+git clone https://github.com/algosovabject/katatonia.git  
+cd katatonia  
 
 Run a program:
 
 python3 hello.py
 
 
-⚠️ Note: Some programs are intentionally hostile:
+## ⚠️ Note: Some programs are intentionally hostile:
 
 deliberation.py will run forever (press Ctrl+C to stop).
 
 codeagainst.py will crash every time. This is the point.
 
-📺 Watch the Series
+## 📺 Watch the Series
 
 Each script corresponds to a YouTube tutorial in the Python for Goths playlist.
 👉 [Algos ov Abject on YouTube](https://www.youtube.com/@algosovabject)
